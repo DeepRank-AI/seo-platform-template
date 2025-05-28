@@ -22,7 +22,7 @@
     "@nuxtjs/seo": "^3.0.1",
     "@nuxtjs/sitemap": "^7.0.2",
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "@pinia/nuxt": "^0.10.1",
+    "@pinia/nuxt": "^0.11.0",
     "autoprefixer": "^10.4.20",
     "chart.js": "^4.4.7",
     "googleapis": "^148.0.0",
