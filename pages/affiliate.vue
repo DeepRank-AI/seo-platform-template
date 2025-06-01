@@ -37,7 +37,7 @@
         </div>
         <div class="p-4 bg-white rounded-lg shadow hover:shadow-lg transition-shadow">
           <div class="text-xl font-medium text-gray-800 mb-2">2. Share</div>
-          <p class="text-gray-700">Promote Repo-Booster using your unique link.</p>
+          <p class="text-gray-700">Promote DeepRankAI using your unique link.</p>
         </div>
         <div class="p-4 bg-white rounded-lg shadow hover:shadow-lg transition-shadow">
           <div class="text-xl font-medium text-gray-800 mb-2">3. Earn</div>

@@ -43,15 +43,15 @@
         <div class="space-y-6 bg-gray-50 p-6 rounded-lg shadow-md">
           <div>
             <h3 class="font-medium mb-2 text-gray-900">Support</h3>
-            <p class="text-gray-600">support@repo-booster.com</p>
+            <p class="text-gray-600">support@DeepRankAI.com</p>
           </div>
           <div>
             <h3 class="font-medium mb-2 text-gray-900">Sales</h3>
-            <p class="text-gray-600">sales@repo-booster.com</p>
+            <p class="text-gray-600">sales@DeepRankAI.com</p>
           </div>
           <div>
             <h3 class="font-medium mb-2 text-gray-900">Press</h3>
-            <p class="text-gray-600">press@repo-booster.com</p>
+            <p class="text-gray-600">press@DeepRankAI.com</p>
           </div>
         </div>
       </div>

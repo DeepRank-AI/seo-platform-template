@@ -1,3 +1,15 @@
 {
-  "extends": "../.nuxt/tsconfig.server.json"
+  "extends": "../.nuxt/tsconfig.server.json",
+  "compilerOptions": {
+    // Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'.
+    "esModuleInterop": true,
+    // Enable all strict type-checking options.
+    "strict": true,
+    // Skip type checking of declaration files.
+    "skipLibCheck": true,
+    // Disallow inconsistently-cased references to the same file.
+    "forceConsistentCasingInFileNames": true,
+    // Include modules imported with .json extension.
+    "resolveJsonModule": true
+  }
 }

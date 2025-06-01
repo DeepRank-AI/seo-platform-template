@@ -34,7 +34,7 @@ const news = [
   {
     id: 2,
     category: 'Company News',
-    title: 'Repo-Booster Reaches 1 Million Users',
+    title: 'DeepRankAI Reaches 1 Million Users',
     excerpt: 'A major milestone in our mission to democratize SEO tools.',
     date: 'March 10, 2024'
   },

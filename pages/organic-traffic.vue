@@ -4,7 +4,7 @@
     <div class="bg-gray-50 dark:bg-gray-800 p-6 rounded-lg shadow">
       <h1 class="text-xl font-semibold mb-4 text-gray-800 dark:text-gray-100">Organic Traffic Insights</h1>
       <p class="text-gray-600 dark:text-gray-300 mb-4">
-        An easy "not provided" keyword solution combining Google Analytics, Search Console and Repo-Booster data
+        An easy "not provided" keyword solution combining Google Analytics, Search Console and DeepRankAI data
       </p>
       
       <div class="flex space-x-4">

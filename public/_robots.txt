@@ -8,4 +8,4 @@ Disallow: /signup
 Disallow: /reset-password
 
 # Sitemap
-Sitemap: https://app.repo-booster.com/sitemap.xml
+Sitemap: https://app.DeepRankAI.com/sitemap.xml

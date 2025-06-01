@@ -3,7 +3,7 @@
     <h1 class="text-3xl font-extrabold mb-8 text-gray-800 dark:text-gray-100">About Us</h1>
     <div class="prose max-w-none">
       <p class="text-lg text-gray-600 dark:text-gray-300 mb-6">
-        Repo-Booster is a leading provider of SEO and digital marketing solutions, helping businesses grow their online presence through data-driven insights and powerful tools.
+        DeepRankAI is a leading provider of SEO and digital marketing solutions, helping businesses grow their online presence through data-driven insights and powerful tools.
       </p>
 
       <!-- Mission and Vision Section -->

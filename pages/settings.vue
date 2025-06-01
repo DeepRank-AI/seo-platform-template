@@ -87,7 +87,7 @@
             </p>
             <div class="flex rounded-md shadow-sm">
               <span class="inline-flex items-center px-3 rounded-l-md border border-r-0 border-gray-300 bg-gray-50 text-gray-500 text-sm dark:bg-gray-600 dark:border-gray-500">
-                repo-booster.com/
+                DeepRankAI.com/
               </span>
               <input 
                 id="username"

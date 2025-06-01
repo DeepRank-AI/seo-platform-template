@@ -1,10 +1,9 @@
-import { SitemapStream, streamToPromise } from 'sitemap';
 import { defineEventHandler } from 'h3';
 
 export default defineEventHandler(async (event) => {
-  const sitemap = new SitemapStream({ hostname: 'https://app.repo-booster.com' });
+  const { SitemapStream, streamToPromise } = require('sitemap');
+  const { Readable } = require('stream');
 
-  // Main Pages
   const pages = [
     { url: '/', changefreq: 'daily', priority: 1.0 },
     { url: '/about', changefreq: 'weekly', priority: 0.7 },
@@ -56,6 +55,9 @@ export default defineEventHandler(async (event) => {
 
   // Combine all pages
   const allPages = [...pages, ...seoPages, ...aiPages];
+
+  // Create a stream to write to
+  const sitemap = new SitemapStream({ hostname: 'https://app.DeepRankAI.com' });
 
   // Write pages to sitemap
   for (const page of allPages) {

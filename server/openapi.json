@@ -1,17 +1,17 @@
 {
     "openapi": "3.0.0",
     "info": {
-      "title": "Repo-Booster API",
-      "description": "API documentation for Repo-Booster SEO analytics platform",
+      "title": "DeepRankAI API",
+      "description": "API documentation for DeepRankAI SEO analytics platform",
       "version": "1.0.0",
       "contact": {
         "name": "API Support",
-        "email": "support@repo-booster.com"
+        "email": "support@DeepRankAI.com"
       }
     },
     "servers": [
       {
-        "url": "https://api.repo-booster.com/v1",
+        "url": "https://api.DeepRankAI.com/v1",
         "description": "Production server"
       },
       {

@@ -2,7 +2,7 @@
   <!-- Login Modal -->
   <UModal v-model="showLoginModal">
     <div class="p-6 bg-gray-50 dark:bg-gray-800 rounded-lg">
-      <h2 class="text-2xl font-bold mb-6 text-gray-800 dark:text-gray-100">Log in to Repo-Booster</h2>
+      <h2 class="text-2xl font-bold mb-6 text-gray-800 dark:text-gray-100">Log in to DeepRankAI</h2>
       
       <form @submit.prevent="handleLogin" class="space-y-4">
         <div>

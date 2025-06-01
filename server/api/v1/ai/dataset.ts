@@ -75,8 +75,8 @@ export const seoDataset = {
         max_length: 60,
         format: "[Primary Keyword] - [Secondary Keyword] | [Brand]",
         examples: [
-          "Best SEO Tools 2024 - Top 10 Compared | Repo-Booster",
-          "Local SEO Guide - Small Business Rankings | Repo-Booster"
+          "Best SEO Tools 2024 - Top 10 Compared | DeepRankAI",
+          "Local SEO Guide - Small Business Rankings | DeepRankAI"
         ]
       },
       meta_descriptions: {

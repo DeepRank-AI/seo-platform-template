@@ -2,7 +2,7 @@ export default defineNuxtPlugin(() => {
   const pageMeta = {
     '/': {
       title: 'SEO Analytics Dashboard',
-      description: 'Get a comprehensive overview of your website\'s SEO performance with Repo-Booster\'s analytics dashboard.'
+      description: 'Get a comprehensive overview of your website\'s SEO performance with DeepRankAI\'s analytics dashboard.'
     },
     '/domain-overview': {
       title: 'Domain Overview & Analysis',
@@ -57,16 +57,16 @@ export default defineNuxtPlugin(() => {
       description: 'Get in touch with our team for support and inquiries.'
     },
     '/about': {
-      title: 'About Repo-Booster',
-      description: 'Learn more about Repo-Booster and how we help you grow your website\'s SEO performance.'
+      title: 'About DeepRankAI',
+      description: 'Learn more about DeepRankAI and how we help you grow your website\'s SEO performance.'
     },
     '/affiliate': {
       title: 'Affiliate Program',
-      description: 'Join our affiliate program and start earning by promoting Repo-Booster.'
+      description: 'Join our affiliate program and start earning by promoting DeepRankAI.'
     },
     '/features': {
       title: 'Features',
-      description: 'Explore the powerful features of Repo-Booster to enhance your SEO strategy.'
+      description: 'Explore the powerful features of DeepRankAI to enhance your SEO strategy.'
     },
     '/integrations': {
       title: 'Integrations',
@@ -74,7 +74,7 @@ export default defineNuxtPlugin(() => {
     },
     '/pricing': {
       title: 'Pricing Plans',
-      description: 'Choose the perfect plan for your needs and get started with Repo-Booster today.'
+      description: 'Choose the perfect plan for your needs and get started with DeepRankAI today.'
     },
     '/projects': {
       title: 'Projects Dashboard',
@@ -82,11 +82,11 @@ export default defineNuxtPlugin(() => {
     },
     '/newsroom': {
       title: 'Newsroom',
-      description: 'Stay updated with the latest news and updates from Repo-Booster.'
+      description: 'Stay updated with the latest news and updates from DeepRankAI.'
     },
     '/settings': {
       title: 'Settings',
-      description: 'Customize your Repo-Booster settings and preferences.'
+      description: 'Customize your DeepRankAI settings and preferences.'
     },
     '/stats': {
       title: 'Statistics',
@@ -114,7 +114,7 @@ export default defineNuxtPlugin(() => {
     },
     '/seo-features': {
       title: 'SEO Features',
-      description: 'Explore the range of SEO tools and features available in Repo-Booster.'
+      description: 'Explore the range of SEO tools and features available in DeepRankAI.'
     },
     '/website-performance': {
       title: 'Website Performance Insights',
@@ -169,9 +169,9 @@ export default defineNuxtPlugin(() => {
         title: meta.title,
         meta: [
           { name: 'description', content: meta.description },
-          { property: 'og:title', content: `${meta.title} | Repo-Booster` },
+          { property: 'og:title', content: `${meta.title} | DeepRankAI` },
           { property: 'og:description', content: meta.description },
-          { name: 'twitter:title', content: `${meta.title} | Repo-Booster` },
+          { name: 'twitter:title', content: `${meta.title} | DeepRankAI` },
           { name: 'twitter:description', content: meta.description }
         ]
       });

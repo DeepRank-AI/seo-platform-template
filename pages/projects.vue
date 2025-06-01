@@ -91,7 +91,7 @@ const filter = ref('all')
 const projectModal = ref(null)
 const projects = ref([
   {
-    domain: 'repo-booster.com',
+    domain: 'DeepRankAI.com',
     lastUpdated: '2024-01-07',
     siteHealth: 74,
     visibility: 65,

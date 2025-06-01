@@ -44,7 +44,7 @@
           <div class="flex-shrink-0 w-24 text-gray-900 font-medium">2022</div>
           <div>
             <h3 class="font-semibold text-gray-900">Product Launch</h3>
-            <p class="text-gray-700">Initial release of Repo-Booster platform</p>
+            <p class="text-gray-700">Initial release of DeepRankAI platform</p>
           </div>
         </div>
       </div>

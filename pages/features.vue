@@ -2,8 +2,8 @@
   <div class="space-y-8 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
     <!-- Header -->
     <div class="text-center max-w-3xl mx-auto">
-      <h1 class="text-3xl font-bold mb-4 text-gray-800 dark:text-gray-100">Repo-Booster Features</h1>
-      <p class="text-gray-600 dark:text-gray-300 mb-8">Start solving your marketing challenges today with 55+ tools and reports on Repo-Booster.</p>
+      <h1 class="text-3xl font-bold mb-4 text-gray-800 dark:text-gray-100">DeepRankAI Features</h1>
+      <p class="text-gray-600 dark:text-gray-300 mb-8">Start solving your marketing challenges today with 55+ tools and reports on DeepRankAI.</p>
       <button class="px-6 py-3 bg-blue-500 text-white rounded-md hover:bg-blue-500">
         Get Started for Free
       </button>
@@ -30,7 +30,7 @@
 
     <!-- Bottom CTA -->
     <div class="bg-purple-100 dark:bg-purple-900 rounded-lg p-8 text-center">
-      <h2 class="text-2xl font-bold mb-4 text-gray-800 dark:text-gray-100">Get it all in one with Repo-Booster</h2>
+      <h2 class="text-2xl font-bold mb-4 text-gray-800 dark:text-gray-100">Get it all in one with DeepRankAI</h2>
       <button class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-600">
         Get free trial
       </button>
