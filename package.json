@@ -27,7 +27,7 @@
     "@pinia/nuxt": "^0.11.0",
     "autoprefixer": "^10.4.20",
     "chart.js": "^4.4.7",
-    "googleapis": "^149.0.0",
+    "googleapis": "^150.0.1",
     "nuxt": "^3.16.2",
     "nuxt-icons": "^3.2.1",
     "nuxt-link-checker": "^4.0.4",
