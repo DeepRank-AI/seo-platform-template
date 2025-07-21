@@ -28,7 +28,7 @@
     "autoprefixer": "^10.4.20",
     "chart.js": "^4.4.7",
     "googleapis": "^149.0.0",
-    "nuxt": "^3.16.2",
+    "nuxt": "^4.0.1",
     "nuxt-icons": "^3.2.1",
     "nuxt-link-checker": "^4.0.4",
     "nuxt-lucide-icons": "^1.0.5",
