@@ -46,6 +46,6 @@
   "devDependencies": {
     "@iconify-json/flag": "^1.2.3",
     "@iconify-json/lucide": "^1.2.23",
-    "eslint": "9.27.0"
+    "eslint": "9.33.0"
   }
 }
