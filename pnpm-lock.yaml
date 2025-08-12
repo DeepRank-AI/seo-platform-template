@@ -100,8 +100,8 @@ importers:
         specifier: ^1.2.3
         version: 1.2.6
       '@iconify-json/lucide':
-        specifier: ^1.2.23
-        version: 1.2.45
+        specifier: ^1.2.62
+        version: 1.2.62
       eslint:
         specifier: 9.27.0
         version: 9.27.0(jiti@2.4.2)
@@ -849,8 +849,8 @@ packages:
   '@iconify-json/heroicons@1.2.2':
     resolution: {integrity: sha512-qoW4pXr5kTTL6juEjgTs83OJIwpePu7q1tdtKVEdj+i0zyyVHgg/dd9grsXJQnpTpBt6/VwNjrXBvFjRsKPENg==}
 
-  '@iconify-json/lucide@1.2.45':
-    resolution: {integrity: sha512-izW3wk7Ll5HgNMc/m41eOKXb7nL1zFxXZdMyBOtqdwusHXPr8IWSC/ReSgWgxUF3xyNwiQsso5Ppkta2wsUrPg==}
+  '@iconify-json/lucide@1.2.62':
+    resolution: {integrity: sha512-K0KfhvP5YQZ2KraOgCm6jJbwwzQCVocvXcdMpDou5uLa48QnLBRW/dQ8VDGmxHTGpwF9EqLlvnUSinH2i6xs3Q==}
 
   '@iconify-json/simple-icons@1.2.36':
     resolution: {integrity: sha512-ZMpVdoW/7hhbt2aHVSvudjH8eSVNNjKkAAjwAQHgiuPUiIfbvNakVin+H9uhUz4N9TbDT/nanzV/4Slb+6dDXw==}
@@ -6403,7 +6403,7 @@ snapshots:
     dependencies:
       '@iconify/types': 2.0.0
 
-  '@iconify-json/lucide@1.2.45':
+  '@iconify-json/lucide@1.2.62':
     dependencies:
       '@iconify/types': 2.0.0
 
