@@ -34,7 +34,7 @@
     "nuxt-lucide-icons": "^1.0.5",
     "openai": "^4.77.4",
     "pinia": "^3.0.3",
-    "postcss": "^8.5.1",
+    "postcss": "^8.5.6",
     "tailwind-scrollbar": "^4.0.2",
     "tailwindcss": "^4.1.7",
     "vue-chartjs": "^5.3.2"
